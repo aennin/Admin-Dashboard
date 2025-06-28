@@ -45,5 +45,5 @@ Contributions and improvements are welcome! Please open issues or submit pull re
 
 # Acknowledgements
 - The Odin Project
-_ FontAwesome
+- FontAwesome
 - Google fonts
